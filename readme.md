@@ -17,4 +17,5 @@ npm run build
 
 
 Courtesy of Bruno Simon of https://threejs-journey.xyz/
-And https://www.youtube.com/watch?v=pUgWfqWZWmM&t=2661s
+
+Created following https://www.youtube.com/watch?v=pUgWfqWZWmM
